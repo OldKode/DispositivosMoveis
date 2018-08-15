@@ -1,0 +1,21 @@
+# DispositivosMoveis
+
+- Twitter.
+
+Componentes:
+    Activity - atividade
+    Fragments - fragmentos
+    Intents - intenções
+    Services - Serviços
+    Content Providers - Provedores de conteudo
+    Broadcast Receivers - receptores de transmissão
+    Application Contexts - contextos de aplicação
+    
+    
+    Activities (Aula 1)
+    
+    - Serve como um "empilhamento" de telas.
+    
+    Broadcast receivers!!!!!!!!!!
+    
+    
